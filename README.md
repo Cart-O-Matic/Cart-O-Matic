@@ -26,3 +26,7 @@ todos los componentes electrónicos involucrados en el proyecto.
 - Carpeta ``presentación/``. Contiene la presentación PowerPoint empleada 
 para exponer el proyecto en el Aula en formatos PPSX, PDF y como vídeo 
 autogenerado de PowerPoint.
+- Carpeta ``memoria/``. Contiene la memoria en formato PDF que contiene la
+información introducida en el *post* del *blog* oficial de la asignatura
+que se ha enviado como entrega oficial a través de la plataforma de la
+Universidad.
